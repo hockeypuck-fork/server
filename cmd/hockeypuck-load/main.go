@@ -10,13 +10,13 @@ import (
 	"time"
 
 	"gopkg.in/errgo.v1"
-	"gopkg.in/hockeypuck/hkp.v1/sks"
-	"gopkg.in/hockeypuck/hkp.v1/storage"
-	log "gopkg.in/hockeypuck/logrus.v0"
-	"gopkg.in/hockeypuck/openpgp.v1"
+	"gopkg.in/schmorrison/hkp.v1/sks"
+	"gopkg.in/schmorrison/hkp.v1/storage"
+	log "gopkg.in/schmorrison/logrus.v0"
+	"gopkg.in/schmorrison/openpgp.v1"
 
-	"github.com/hockeypuck/server"
-	"github.com/hockeypuck/server/cmd"
+	"github.com/schmorrison/server"
+	"github.com/schmorrison/server/cmd"
 )
 
 var (

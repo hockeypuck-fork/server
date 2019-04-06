@@ -43,12 +43,12 @@ parts:
       cp -r ../../../snap/www $SNAPCRAFT_PART_INSTALL
     plugin: godeps
     go-packages:
-    - github.com/hockeypuck/server/cmd/hockeypuck
-    - github.com/hockeypuck/server/cmd/hockeypuck-load
-    - github.com/hockeypuck/server/cmd/hockeypuck-dump
-    - github.com/hockeypuck/server/cmd/hockeypuck-pbuild
-    go-importpath: github.com/hockeypuck/server
-    source: https://github.com/hockeypuck/server.git
+    - github.com/schmorrison/server/cmd/hockeypuck
+    - github.com/schmorrison/server/cmd/hockeypuck-load
+    - github.com/schmorrison/server/cmd/hockeypuck-dump
+    - github.com/schmorrison/server/cmd/hockeypuck-pbuild
+    go-importpath: github.com/schmorrison/server
+    source: https://github.com/schmorrison/server.git
     source-type: git
     source-branch: master
     source-depth: 1

@@ -9,8 +9,8 @@ import (
 
 	"gopkg.in/errgo.v1"
 
-	"github.com/hockeypuck/server"
-	"github.com/hockeypuck/server/cmd"
+	"github.com/schmorrison/server"
+	"github.com/schmorrison/server/cmd"
 )
 
 var (

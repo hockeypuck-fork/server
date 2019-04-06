@@ -21,7 +21,7 @@ import (
 	"github.com/BurntSushi/toml"
 	"gopkg.in/errgo.v1"
 
-	"gopkg.in/hockeypuck/conflux.v2/recon"
+	"gopkg.in/schmorrison/conflux.v2/recon"
 )
 
 type confluxConfig struct {

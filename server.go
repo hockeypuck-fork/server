@@ -15,12 +15,12 @@ import (
 	"gopkg.in/errgo.v1"
 	"gopkg.in/tomb.v2"
 
-	"gopkg.in/hockeypuck/hkp.v1"
-	"gopkg.in/hockeypuck/hkp.v1/sks"
-	"gopkg.in/hockeypuck/hkp.v1/storage"
-	log "gopkg.in/hockeypuck/logrus.v0"
-	"gopkg.in/hockeypuck/mgohkp.v1"
-	"gopkg.in/hockeypuck/pghkp.v1"
+	"gopkg.in/schmorrison/hkp.v1"
+	"gopkg.in/schmorrison/hkp.v1/sks"
+	"gopkg.in/schmorrison/hkp.v1/storage"
+	log "gopkg.in/schmorrison/logrus.v0"
+	"gopkg.in/schmorrison/mgohkp.v1"
+	"gopkg.in/schmorrison/pghkp.v1"
 )
 
 type Server struct {
