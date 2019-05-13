@@ -8,7 +8,7 @@ golang.org/x/crypto	git	24ffb5feb3312a39054178a4b0a4554fc2201248	2015-05-08T01:1
 gopkg.in/basen.v1	git	c8826fd23a9b8fee76fd0c3c5ac34a44cc15dc75	2015-01-14T00:31:04Z
 gopkg.in/errgo.v1	git	81357a83344ddd9f7772884874e5622c2a3da21c	2014-10-13T17:33:38Z
 gopkg.in/schmorrison/conflux.v2	git	bf6bb2fad1736d984d75b8654086adb1f203a51e	2019-04-06T21:25:06Z
-gopkg.in/schmorrison/hkp.v1	git	cf7966d2af5f3a4c10331098991bcdbf2eea461d	2019-04-06T21:25:06Z
+gopkg.in/schmorrison/hkp.v1	git	c797511f37dcdd756f48e55c538a9ec7ea705852	2019-05-13T17:40:06Z
 gopkg.in/schmorrison/logrus.v0	git	55eb11d21d2a31a3cc93838241d04800f52e823d	2015-04-09T23:08:25Z
 gopkg.in/schmorrison/mgohkp.v1	git	7e5e763b2f6936c2c52752097987d70e72b5fe39	2019-04-06T21:25:06Z
 gopkg.in/schmorrison/openpgp.v1	git	645a02d31bcbceceb652efdd16696d5cccaa10a2	2019-04-06T21:25:06Z
